@@ -16,7 +16,7 @@
 
 */
 
-package whois_parser_ai
+package whoisparserai
 
 import (
 	"encoding/json"
