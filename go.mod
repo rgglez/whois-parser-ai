@@ -1,4 +1,4 @@
-module whois-parser-ai
+module github.com/rgglez/whois-parser-ai
 
 go 1.24.5
 
