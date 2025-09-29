@@ -47,7 +47,7 @@ var result map[string]interface{}
 result, err = azure.ParseWhois(rawWhoisData)
 ```
 
-This will fill a map with some of this fields:
+This will fill a map with some of these fields:
 
 ```json
 results = {
