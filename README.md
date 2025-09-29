@@ -63,7 +63,7 @@ results = {
 }
 ```
 
-Since WHOIS returns free form text without a fixed structure or fixed fields, results may be different from server too server.
+Since WHOIS returns free form text without a fixed structure or fixed fields, results may be different from server to server.
 
 ## Dependencies
 
