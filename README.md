@@ -14,12 +14,12 @@
 ## Azure OpenAI setup
 
 1. Sign in to [Azure Portal](https://portal.azure.com).
-1. Create a Resource:
+2. Create a Resource:
   * Search for "Azure OpenAI" in the Marketplace.
   * Click **Create** ans choose your subscription,
   resource group, and region (for instance, `West US 3`).
   * Set a **deployment name** (for instance, `gpt-4o-mini-whois`) and choose the model, for example `gpt-4o-mini`.
-1. Wait for deployment. Once deployed, note your endpoint URL, API keys and deployment name.
+3. Wait for deployment. Once deployed, note your endpoint URL, API keys and deployment name.
 
 ## Installation
 
